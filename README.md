@@ -1,4 +1,3 @@
-Olá 👋
 
 
 - 🔭 Terminando o curso "CURSO DESENVOLVIMENTO WEB FULL STACK (PROGRAMADOR BR)"
