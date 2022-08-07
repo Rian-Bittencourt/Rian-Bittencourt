@@ -3,6 +3,7 @@
 - 🔭 Terminando o curso "CURSO DESENVOLVIMENTO WEB FULL STACK (PROGRAMADOR BR)"
 - 🌱 Estudando Javascript, Node e React.
 - 👯 A procura da minha primeira vaga como programador como estagiário.
+- 🏫 Cursando Análise e Desenvolvimento - Estácio
 <div>
   <a href="https://github.com/rianbittencourt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianbittencourt&layout=compact&langs_count=7&theme=dark"/>
