@@ -1,5 +1,6 @@
 - 🌱 Estudando Javascript, Node e React.
 - 🏫 Cursando Análise e Desenvolvimento - Estácio
+- 📧 rian.bitten2@gmail.com
 <div>
   <a href="https://github.com/rianbittencourt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianbittencourt&layout=compact&langs_count=7&theme=dark"/>
