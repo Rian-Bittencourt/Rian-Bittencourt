@@ -1,4 +1,4 @@
-- 🌱 Estudando Javascript, Node e React.
+- 🌱 Estudando React/Node/Next
 - 🏫 Cursando Análise e Desenvolvimento - Estácio
 - 📧 rian.bitten2@gmail.com
 <div>
