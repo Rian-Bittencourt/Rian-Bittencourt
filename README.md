@@ -1,6 +1,7 @@
-- 🌱 Estudando React/Node/Next
-- 🏫 Cursando Análise e Desenvolvimento - Estácio
+- 🌱 Desenvolvedor Front-End React/Node/Next
+- 🏫 Cursando ADS - Estácio
 - 📧 rian.bitten2@gmail.com
+
 <div>
   <a href="https://github.com/rianbittencourt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianbittencourt&layout=compact&langs_count=7&theme=dark"/>
