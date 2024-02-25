@@ -1,5 +1,5 @@
 - 🌱 Desenvolvedor Front-End React/Node/Next
-- 🏫 Cursando ADS - Estácio
+- 🏫 Cursando ADS
 - 📧 rian.bitten2@gmail.com
 
 <div>
