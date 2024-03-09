@@ -1,4 +1,4 @@
-- 🌱 Desenvolvedor Front-End React/Node/Next
+- 🌱 Desenvolvedor FullStack React/Node/Next
 - 🏫 Cursando ADS
 - 📧 rian.bitten2@gmail.com
 
