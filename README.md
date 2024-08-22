@@ -1,5 +1,5 @@
-- 🌱 Desenvolvedor FullStack React/Node/Next
-- 🏫 Cursando ADS
+- 🌱 FullStack Developer (React/Node/Next)
+- 🎓 Degree in Information Systems (ADS)
 - 📧 rian.bitten2@gmail.com
 
 <div>
